@@ -1,0 +1,54 @@
+{
+  "class-barre": {
+    "w": 896,
+    "h": 1200
+  },
+  "class-mat": {
+    "w": 896,
+    "h": 1200
+  },
+  "class-prenatal": {
+    "w": 896,
+    "h": 1200
+  },
+  "class-reformer": {
+    "w": 896,
+    "h": 1200
+  },
+  "hero-reformer": {
+    "w": 1200,
+    "h": 896
+  },
+  "instructor-1": {
+    "w": 896,
+    "h": 1200
+  },
+  "instructor-2": {
+    "w": 896,
+    "h": 1200
+  },
+  "instructor-3": {
+    "w": 896,
+    "h": 1200
+  },
+  "journal-1": {
+    "w": 1200,
+    "h": 896
+  },
+  "journal-2": {
+    "w": 896,
+    "h": 1200
+  },
+  "retreat-cliff": {
+    "w": 1376,
+    "h": 768
+  },
+  "studio-detail": {
+    "w": 896,
+    "h": 1200
+  },
+  "studio-interior": {
+    "w": 1376,
+    "h": 768
+  }
+}
